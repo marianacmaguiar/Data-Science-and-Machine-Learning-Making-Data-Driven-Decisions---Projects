@@ -13,6 +13,8 @@
 <h2>NYC Taxi Ride Duration Prediction - Predictive Analytics</h2>
 <p>In this project, we applied different techniques of Feature engineering and did prediction engineering to build a predictive model for predicting the duration for taxi rides. We used automated feature engineering to create new features. The project was completed as a part of the Predictive Analytics module.</p>
 
+ <hr>   
+ 
 <p>All projects were completed using Python and Jupyter Notebook. Each project has its own folder with the necessary data, code, and report. Feel free to explore the projects and learn from the code and analysis.</p>
   </body>
 </html>
