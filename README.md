@@ -1,8 +1,5 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>MIT IDSS Data Science and Machine Learning Certification Projects</title>
-  </head>
+<html> 
   <body>
     <h1>MIT IDSS Data Science and Machine Learning Certification Projects</h1>
     <p>This repository contains the three graded projects completed during the "Data Science and Machine Learning: Making Data-Driven Decisions" certification by MIT IDSS. Below is a brief overview of each project:</p>
